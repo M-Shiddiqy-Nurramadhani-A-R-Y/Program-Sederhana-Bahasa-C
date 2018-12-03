@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540808262 source:c:\users\asus\desktop\data dhani\new folder\latihan\program untuk mencari bilangan terbesar dari 3 bilangan\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+

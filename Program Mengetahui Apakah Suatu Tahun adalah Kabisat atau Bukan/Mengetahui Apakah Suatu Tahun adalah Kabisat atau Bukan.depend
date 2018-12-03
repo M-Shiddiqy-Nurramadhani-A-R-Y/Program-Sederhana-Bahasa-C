@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540915809 source:c:\users\asus\desktop\data dhani\new folder\latihan\mengetahui apakah suatu tahun adalah kabisat atau bukan\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
